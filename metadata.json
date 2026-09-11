@@ -1,0 +1,6 @@
+{
+  "name": "Kajal's Starlit Spectrum",
+  "description": "An immersive 3D celestial birthday universe celebrating Kajal with interactive WebGL scenes, kinetic jewelry, and a starlight wishing well.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
